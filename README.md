@@ -77,7 +77,7 @@ Check out my portfolio website:
 ---
 
 ## 📫 Contact
-📧 Email: **nikolasarafimov@gmail.com**
+📧 Email: **sarafimov.nikola12345@gmail.com**
 
 ---
 
