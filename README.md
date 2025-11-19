@@ -1,19 +1,20 @@
-<h1 align="center">👋 Nikola Sarafimov</h1>
-<h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
+<h1 align="center">👋 Hi, I'm <strong>Nikola Sarafimov</strong></h1>
+<h3 align="center">Software Engineering Student @ FCSE</h3>
 
 <p align="center">
-  💻 Software Developer • 🎥 Video Editing & Creative Media Enthusiast • 🌐 Tech Learner  
+  💻 Software Developer & Problem Solver • 🎥 Video Editing & Creative Media Enthusiast • 🌐 Lifelong Learner  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science and Software Engineering student at **FCSE (Faculty of Computer Science and Engineering)**, passionate about building modern applications, exploring full-stack development, and constantly improving my technical problem-solving abilities.
+I'm a **Computer Science & Software Engineering student at FCSE (Faculty of Computer Science and Engineering)** with a strong passion for building modern, scalable applications and exploring full-stack development. I enjoy transforming ideas into functional software and continuously improving my skills across multiple technologies.
 
-Apart from programming, I’m also deeply interested in **video production**, including filming, editing, and creative work with tools like **Adobe Premiere Pro, Photoshop, and mobile editing suites**.
+Beyond programming, I'm actively involved in **video production and digital media**, including filming, editing, color grading, motion graphics, and creative design using tools like **Adobe Premiere Pro, Photoshop, and mobile editing platforms**.
 
-Always learning. Always creating.
+I believe in consistency, creativity, and constant growth.  
+**Always learning. Always building. Always creating.**
 
 ---
 
@@ -35,22 +36,22 @@ Always learning. Always creating.
 - Node.js  
 - Django
 
-### **Databases & Tools**
+### **Database & Tools**
 - PostgreSQL • SQL  
 - Git • GitHub  
-- UX fundamentals  
+- UX Fundamentals  
 - Docker (basic usage)
 
 ---
 
 ## 🌍 Languages I Speak
-- **Macedonian** (native)  
-- **English** (advanced)
+- 🇲🇰 **Macedonian** — Native  
+- 🇬🇧 **English** — Advanced
 
 ---
 
-## 📌 Featured Personal Website
-Check out my portfolio website:  
+## 📌 Personal Website
+Explore my portfolio and work:  
 👉 **https://nikolasarafimov.github.io/personal-website/**
 
 ---
@@ -67,7 +68,7 @@ Check out my portfolio website:
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/nikola.sarafimov.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/nikolasarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@sarafimovproduction2418"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
