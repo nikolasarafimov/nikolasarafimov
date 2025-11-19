@@ -1,28 +1,23 @@
 <!-- ====================== HEADER / HERO ====================== -->
-<h1 align="center">👋 Hi, I'm <strong>Nikola Sarafimov</strong></h1>
-<h3 align="center">Software Engineering Student @ FCSE • Full-Stack Developer • Creative Media Enthusiast</h3>
+<h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
+<h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
 
 <p align="center">
-  💻 Full-Stack Development • 🎥 Video Editing & Digital Media • 🌐 Always Learning  
+  💻 Full-Stack Development / Software Developer • 🎥 Video Editing & Creative Media Enthusiast • 🌐 Tech Learner  
 </p>
 
 ---
 
-<!-- ====================== ABOUT ME ====================== -->
 ## 🚀 About Me
 
-I'm a **Computer Science & Software Engineering student at FCSE (Faculty of Computer Science and Engineering)** with a strong passion for building modern, scalable, and user-centered applications.  
-I enjoy working across the full tech stack — from backend architectures to interactive UIs.
+I'm a Computer Science and Software Engineering student at **FCSE (Faculty of Computer Science and Engineering)**, passionate about building modern applications, exploring full-stack development, and constantly improving my technical problem-solving abilities.
 
-Apart from coding, I’m also heavily involved in **video production**:  
-🎥 filming • ✂️ editing • 🎨 Photoshop • 🎬 storytelling • 🎛️ creative media work.
+Apart from programming, I’m also deeply interested in **video production**, including filming, editing, and creative work with tools like **Adobe Premiere Pro, Photoshop, and mobile editing suites**.
 
-My mindset:  
-👉 **Always improving. Always building. Always creating.**
+Always learning. Always creating.
 
 ---
 
-<!-- ====================== TECH STACK (ICONS) ====================== -->
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
