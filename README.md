@@ -38,7 +38,6 @@ Always learning. Always creating.
 ### 🔹 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React Native" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery" />
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML Templates / Thymeleaf" />
@@ -49,7 +48,6 @@ Always learning. Always creating.
 ### 🔹 Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Framework" />
-  <img src="https://skillicons.dev/icons?i=springboot" height="40" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET / .NET Core" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
@@ -70,72 +68,18 @@ Always learning. Always creating.
 
 --- 
 
-<!-- ====================== PROJECTS ====================== -->
-## 📂 Featured Projects
-
-### 🛒 **E-Shop Application (Spring Boot + React)**
-**Tech:** Spring Boot • React • JWT • PostgreSQL • REST API  
-A full e-commerce system with authentication, cart flow, pagination, and layered backend architecture.  
-🔗 *GitHub link:* *(add your link here)*
-
----
-
-### 🐾 **Pet Adoption Platform (.NET Core – Onion Architecture)**
-**Tech:** .NET Core • C# • Onion Architecture • REST API • PostgreSQL  
-Platform for shelters, adopters, pets, and adoption request management with clean layered architecture.  
-🔗 *GitHub link:* *(add your link here)*
-
----
-
-### 📚 **Student Projects Portal (Spring Boot + React)**
-**Tech:** Spring Boot • React • JWT Auth • PostgreSQL  
-Platform for submitting, reviewing, and validating student project proposals with role-based access.  
-🔗 *GitHub link:* *(add your link here)*
-
----
-
-### 📱 **MIS Meal App (Flutter)**
-**Tech:** Flutter • Dart  
-Mobile app displaying meals, categories, favorites, and filtering using structured Flutter architecture.  
-🔗 *GitHub link:* *(add your link here)*
-
----
-
-### 🚤 **Watercraft Rental System (Django)**
-**Tech:** Django • Python • SQLite3 • HTML/CSS  
-Rental platform for managing motorboats, availability, schedules, and user interactions.  
-🔗 *GitHub link:* *(add your link here)*
-
----
-
-### 🌐 **Personal Website (HTML/CSS/JS – GitHub Pages)**
-**Tech:** HTML • CSS • JavaScript  
-A personal portfolio website displaying projects, skills, and contact information.  
-🔗 https://nikolasarafimov.github.io/personal-website/
-
----
-
-<!-- ====================== TIMELINE ====================== -->
-## 🕒 Timeline (My Journey)
-
-- 🎓 **2023** — Started studies at FCSE  
-- 💻 **2023** — First full-stack projects in Java, C#, JS  
-- 🚀 **2024** — Built Spring Boot + React applications  
-- 🐾 **2024** — Developed .NET Core Onion Architecture platform  
-- 📱 **2024** — Created Flutter mobile app  
-- 🎬 **2020–2024** — Active in video editing, filming, creative media  
-- ⭐ **2025** — Building portfolio and expanding tech stack  
-
----
-
-<!-- ====================== LANGUAGES ====================== -->
 ## 🌍 Languages I Speak
-- 🇲🇰 **Macedonian** — Native  
-- 🇬🇧 **English** — Advanced  
+- **Macedonian** (native)  
+- **English** (advanced)
 
 ---
 
-<!-- ====================== GITHUB STATS ====================== -->
+## 📌 Featured Personal Website
+Check out my portfolio website:  
+👉 **https://nikolasarafimov.github.io/personal-website/**
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
