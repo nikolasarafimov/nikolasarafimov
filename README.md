@@ -25,36 +25,55 @@ My mindset:
 <!-- ====================== TECH STACK (ICONS) ====================== -->
 ## 🛠️ Tech Stack
 
-### 🛠️ Programming Languages
-
-| Icon | Name |
-|------|-------|
-| <img src="https://skillicons.dev/icons?i=html" height="30"/> | HTML |
-| <img src="https://skillicons.dev/icons?i=css" height="30"/> | CSS |
-| <img src="https://skillicons.dev/icons?i=js" height="30"/> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=ts" height="30"/> | TypeScript |
-| <img src="https://skillicons.dev/icons?i=cpp" height="30"/> | C++ |
-| <img src="https://skillicons.dev/icons?i=cs" height="30"/> | C# |
-| <img src="https://skillicons.dev/icons?i=java" height="30"/> | Java |
-| <img src="https://skillicons.dev/icons?i=python" height="30"/> | Python |
-| <img src="https://skillicons.dev/icons?i=dart" height="30"/> | Dart |
-
-### 🔹 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,react,flutter,html,css,jquery" />
-</p>
-
-### 🔹 Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" />
-</p>
-
-### 🔹 Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker" />
+### 🔹 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
 </p>
 
 ---
+
+### 🔹 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML Templates / Thymeleaf" />
+</p>
+
+---
+
+### 🔹 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Framework" />
+  <img src="https://skillicons.dev/icons?i=springboot" height="40" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET / .NET Core" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
+</p>
+
+---
+
+### 🔹 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="UX / UI Fundamentals" />
+</p>
+
+--- 
 
 <!-- ====================== PROJECTS ====================== -->
 ## 📂 Featured Projects
