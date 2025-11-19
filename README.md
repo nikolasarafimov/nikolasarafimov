@@ -25,18 +25,18 @@ My mindset:
 <!-- ====================== TECH STACK (ICONS) ====================== -->
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="30" /> HTML  
-  <img src="https://skillicons.dev/icons?i=css" height="30" /> CSS  
-  <img src="https://skillicons.dev/icons?i=js" height="30" /> JavaScript  
-  <img src="https://skillicons.dev/icons?i=ts" height="30" /> TypeScript  
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" /> C++  
-  <img src="https://skillicons.dev/icons?i=cs" height="30" /> C#  
-  <img src="https://skillicons.dev/icons?i=java" height="30" /> Java  
-  <img src="https://skillicons.dev/icons?i=python" height="30" /> Python  
-  <img src="https://skillicons.dev/icons?i=dart" height="30" /> Dart  
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
 </p>
+
 
 
 ### 🔹 Frontend Development
