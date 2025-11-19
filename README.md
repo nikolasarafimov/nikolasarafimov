@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nikola Sarafimov</h1>
+<h1 align="center">👋 Nikola Sarafimov</h1>
 <h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
 
 <p align="center">
