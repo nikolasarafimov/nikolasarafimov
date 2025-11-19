@@ -26,9 +26,18 @@ My mindset:
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,python,dart" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="30" /> HTML  
+  <img src="https://skillicons.dev/icons?i=css" height="30" /> CSS  
+  <img src="https://skillicons.dev/icons?i=js" height="30" /> JavaScript  
+  <img src="https://skillicons.dev/icons?i=ts" height="30" /> TypeScript  
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" /> C++  
+  <img src="https://skillicons.dev/icons?i=cs" height="30" /> C#  
+  <img src="https://skillicons.dev/icons?i=java" height="30" /> Java  
+  <img src="https://skillicons.dev/icons?i=python" height="30" /> Python  
+  <img src="https://skillicons.dev/icons?i=dart" height="30" /> Dart  
 </p>
+
 
 ### 🔹 Frontend Development
 <p align="left">
