@@ -1,4 +1,3 @@
-<!-- ====================== HEADER / HERO ====================== -->
 <h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
 <h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
 
@@ -89,7 +88,6 @@ Check out my portfolio website:
 
 ---
 
-<!-- ====================== CONTACT / SOCIALS ====================== -->
 ## 🔗 Connect With Me
 
 <p align="center">
