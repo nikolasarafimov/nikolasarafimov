@@ -1,5 +1,3 @@
-<!-- ====================== ENGLISH VERSION ====================== -->
-
 <h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
 <h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
 
@@ -92,7 +90,6 @@ Always learning. Always creating.
 
 <br><br>
 
-<!-- ====================== MACEDONIAN VERSION ====================== -->
 
 <h1 align="center">👋 <strong>Никола Сарафимов</strong></h1>
 <h3 align="center">Студент на ФИНКИ – Насока Компјутерски Науки / Софтерско Инженерство</h3>
