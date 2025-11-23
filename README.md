@@ -1,6 +1,10 @@
 [🇬🇧 English](#english) | [🇲🇰 Македонски](#македонски)
 
+---
+
 <a id="english"></a>
+
+<!-- ====================== HEADER / HERO ====================== -->
 <h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
 <h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
 
@@ -68,7 +72,7 @@ Always learning. Always creating.
   <img src="https://skillicons.dev/icons?i=figma" height="40" title="UX / UI Fundamentals" />
 </p>
 
---- 
+---
 
 ## 🌍 Languages I Speak
 - **Macedonian** (native)  
@@ -110,8 +114,10 @@ Check out my portfolio website:
 
 <p align="center">⚡ Building projects. Learning new technologies. Improving every day. ⚡</p>
 
+---
 
 <a id="македонски"></a>
+
 <!-- ====================== HEADER / HERO ====================== -->
 <h1 align="center">👋 <strong>Никола Сарафимов</strong></h1>
 <h3 align="center">Студент на ФИНКИ – Насока Компјутерски Науки / Софтерско Инженерство</h3>
@@ -221,4 +227,3 @@ Check out my portfolio website:
 ---
 
 <p align="center">⚡ Градам проекти. Учам нови технологии. Секој ден напредувам. ⚡</p>
-
