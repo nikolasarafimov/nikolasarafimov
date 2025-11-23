@@ -4,226 +4,154 @@
 
 <a id="english"></a>
 
-<!-- ====================== HEADER / HERO ====================== -->
-<h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
-<h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
+# 👋 Nikola Sarafimov  
+### 🇬🇧 Student at FCSE – Computer Science / Software Engineering Track
 
 <p align="center">
-  💻 Full-Stack Development / Software Developer • 🎥 Video Editing & Creative Media Enthusiast • 🌐 Tech Learner  
+💻 Full-Stack Developer • 🎥 Video Editing & Media • 🌐 Tech Learner
 </p>
 
 ---
 
-## 🚀 About Me
+## 🇬🇧 🚀 About Me
+I'm a Computer Science and Software Engineering student at **FCSE**, passionate about building modern applications, exploring full-stack development, and improving my technical skills.
 
-I'm a Computer Science and Software Engineering student at **FCSE (Faculty of Computer Science and Engineering)**, passionate about building modern applications, exploring full-stack development, and constantly improving my technical problem-solving abilities.
-
-Apart from programming, I’m also deeply interested in **video production**, including filming, editing, and creative work with tools like **Adobe Premiere Pro, Photoshop, and mobile editing suites**.
-
-Always learning. Always creating.
+I am also interested in **video production**, including filming, editing, and creative work with **Adobe Premiere Pro, Photoshop**, and mobile editing tools.
 
 ---
 
-## 🛠️ Tech Stack
+## 🇬🇧 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,python,dart" height="40" />
 </p>
 
----
-
-### 🔹 Frontend Development
+### 🔹 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML Templates / Thymeleaf" />
+<img src="https://skillicons.dev/icons?i=react,flutter,jquery,html" height="40" />
 </p>
 
----
-
-### 🔹 Backend Development
+### 🔹 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Framework" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET / .NET Core" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" height="40" />
 </p>
-
----
 
 ### 🔹 Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" title="SQLite" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" title="UX / UI Fundamentals" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma" height="40" />
 </p>
 
 ---
 
-## 🌍 Languages I Speak
-- **Macedonian** (native)  
-- **English** (advanced)
+## 🇬🇧 🌍 Languages
+- Macedonian (native)  
+- English (advanced)
 
 ---
 
-## 📌 Featured Personal Website
-Check out my portfolio website:  
-👉 **https://nikolasarafimov.github.io/personal-website/**
+## 🇬🇧 📌 Portfolio  
+👉 https://nikolasarafimov.github.io/personal-website/
 
 ---
 
-## 📈 GitHub Stats
-
+## 🇬🇧 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-
+## 🇬🇧 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/nikola.sarafimov.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nikolasarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@sarafimovproduction2418"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://nikolasarafimov.github.io/personal-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.facebook.com/nikola.sarafimov.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+<a href="https://www.instagram.com/nikolasarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+<a href="https://www.youtube.com/@sarafimovproduction2418"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a>
+<a href="https://nikolasarafimov.github.io/personal-website/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-## 📫 Contact
-📧 Email: **sarafimov.nikola12345@gmail.com**
+## 🇬🇧 📫 Contact  
+📧 **sarafimov.nikola12345@gmail.com**
 
 ---
-
-<p align="center">⚡ Building projects. Learning new technologies. Improving every day. ⚡</p>
 
 ---
 
 <a id="македонски"></a>
 
-<!-- ====================== HEADER / HERO ====================== -->
-<h1 align="center">👋 <strong>Никола Сарафимов</strong></h1>
-<h3 align="center">Студент на ФИНКИ – Насока Компјутерски Науки / Софтерско Инженерство</h3>
+# 👋 Никола Сарафимов  
+### 🇲🇰 Студент на ФИНКИ – Компјутерски Науки / Софтверско Инженерство
 
 <p align="center">
-  💻 Full-Stack Development / Software Developer • 🎥 Видео монтажа и креативни медиуми • 🌐 Tech Learner  
+💻 Full-Stack Developer • 🎥 Видео монтажа • 🌐 Tech Learner
 </p>
 
 ---
 
-## 🚀 За Мене
+## 🇲🇰 🚀 За Мене
+Јас сум студент на **ФИНКИ**, со страст кон развој на софтвер, full-stack технологии и постојно надградување на моите вештини.
 
-Јас сум студент по **Компјутерски Науки и Софтверско Инженерство** на ФИНКИ (Факултет за информатички науки и компјутерско инженерство), со голема страст кон создавање модерни апликации, истражување на full-stack развој и постојано подобрување на моите технички и логички вештини.
-
-Покрај програмирањето, имам и силен интерес за **видео продукција**, снимање, монтажа и креативна работа со алатки како **Adobe Premiere Pro, Photoshop** и други мобилни едитори.
-
-Секогаш учам. Секогаш создавам.
+Имам голем интерес за **видео продукција**, снимање и монтажа со алатки како **Adobe Premiere Pro** и **Photoshop**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🇲🇰 🛠️ Tech Stack
 
-### 🔹 Програмирање
+### 🔹 Програмирање  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" title="Dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,python,dart" height="40" />
 </p>
 
----
-
-### 🔹 Frontend Развој
+### 🔹 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML Templates / Thymeleaf" />
+<img src="https://skillicons.dev/icons?i=react,flutter,jquery,html" height="40" />
 </p>
 
----
-
-### 🔹 Backend Развој
+### 🔹 Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Framework" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET / .NET Core" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" height="40" />
 </p>
 
----
-
-### 🔹 Бази на податоци & Алатки
+### 🔹 Бази & Алатки  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" title="SQLite" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" title="UX / UI Fundamentals" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma" height="40" />
 </p>
 
 ---
 
-## 🌍 Јазици
-- **Македонски** (мајчин)  
-- **Англиски** (напредно)
+## 🇲🇰 🌍 Јазици  
+- Македонски (мајчин)  
+- Англиски (напредно)
 
 ---
 
-## 📌 Персонална Веб-Страница
-Погледнете ја мојата веб-страница:  
-👉 **https://nikolasarafimov.github.io/personal-website/**
+## 🇲🇰 📌 Персонална Страница  
+👉 https://nikolasarafimov.github.io/personal-website/
 
 ---
 
-## 📈 GitHub Статистики
-
+## 🇲🇰 📈 GitHub Статистики  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🔗 Социјални Мрежи
-
+## 🇲🇰 🔗 Социјални Мрежи  
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/nikola.sarafimov.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nikolasarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@sarafimovproduction2418"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://nikolasarafimov.github.io/personal-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikола-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.facebook.com/nikola.sarafimov.2025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+<a href="https://www.instagram.com/nikolasarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+<a href="https://www.youtube.com/@sarafimovproduction2418"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a>
+<a href="https://nikolasarafimov.github.io/personal-website/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-## 📫 Контакт
-📧 Email: **sarafimov.nikola12345@gmail.com**
-
----
-
-<p align="center">⚡ Градам проекти. Учам нови технологии. Секој ден напредувам. ⚡</p>
+## 🇲🇰 📫 Контакт  
+📧 **sarafimov.nikola12345@gmail.com**
