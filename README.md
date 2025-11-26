@@ -81,6 +81,7 @@ Always learning. Always creating.
 
 ## 📫 Contact
 📧 **sarafimov.nikola12345@gmail.com**
+📧 **nikola.sarafimov@students.finki.ukim.mk**
 
 ---
 
@@ -174,3 +175,4 @@ Always learning. Always creating.
 
 ## 📫 Контакт  
 📧 **sarafimov.nikola12345@gmail.com**
+📧 **nikola.sarafimov@students.finki.ukim.mk**
