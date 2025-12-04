@@ -54,7 +54,7 @@ Always learning. Always creating.
 ---
 
 ## 📌 Featured Personal Website  
-👉 **https://nikolasarafimov.github.io/personal-website/**
+👉 **https://nikolasarafimov.github.io**
 
 ---
 
@@ -148,7 +148,7 @@ Always learning. Always creating.
 ---
 
 ## 📌 Персонална Веб-Страница  
-👉 **https://nikolasarafimov.github.io/personal-website/**
+👉 **https://nikolasarafimov.github.io**
 
 ---
 
