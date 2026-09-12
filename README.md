@@ -1,178 +1,179 @@
-<h1 align="center">👋 <strong>Nikola Sarafimov</strong></h1>
-<h3 align="center">Student at FCSE – Computer Science / Software Engineering Track</h3>
+<h1 align="center">Hi, I'm Nikola Sarafimov 👋</h1>
+
+<h3 align="center">
+  Software Engineering Student · Full-Stack Developer · Creative Media Enthusiast
+</h3>
 
 <p align="center">
-  💻 Full-Stack Development / Software Developer • 🎥 Video Editing & Creative Media Enthusiast • 🌐 Tech Learner  
+  <a href="https://nikolasarafimov.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science and Software Engineering student at **FCSE (Faculty of Computer Science and Engineering)**, passionate about building modern applications, exploring full-stack development, and constantly improving my technical problem-solving abilities.
+I'm a student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)**, focused on software development and applied information technologies.
 
-Apart from programming, I’m also deeply interested in **video production**, including filming, editing, and creative work with tools like **Adobe Premiere Pro, Photoshop, and mobile editing suites**.
+I enjoy building practical applications and working across the full development stack — from designing user interfaces and implementing backend logic to working with databases, APIs, containers, and deployment tools.
 
-Always learning. Always creating.
+Outside software development, I am also interested in **video production and digital media**, including filming, video editing, photography, and visual design.
+
+- 💻 Interested in **Full-Stack & Software Development**
+- 📱 Building web and mobile applications
+- 🧠 Continuously improving my software engineering and problem-solving skills
+- 🎬 Interested in video production, editing, and creative media
+- 🌍 Based in North Macedonia
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔹 Programming Languages
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,python,dart" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,ts,dart,html,css" />
 </p>
 
----
+### Frontend & Mobile
 
-### 🔹 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,jquery,html" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts,jquery" />
 </p>
 
----
+### Backend
 
-### 🔹 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" />
 </p>
 
----
+### Databases
 
-### 🔹 Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
---- 
+### Tools & Technologies
 
-## 🌍 Languages I Speak
-- **Macedonian** (native)  
-- **English** (advanced)
-
----
-
-## 📌 Featured Personal Website  
-👉 **https://nikolasarafimov.github.io**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## Featured Work
+
+### 🌐 Personal Portfolio
+
+My personal website featuring selected projects, skills, and information about my work.
+
+<p>
+  <a href="https://nikolasarafimov.github.io">
+    <img src="https://img.shields.io/badge/nikolasarafimov.github.io-View%20Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+### 📱 MIS Flutter Labs
+
+A collection of Flutter applications developed as part of the **Mobile Information Systems** course.
+
+Includes:
+- Exam Schedule App
+- Meal & Recipe Browser using TheMealDB API
+
+<p>
+  <a href="https://github.com/nikolasarafimov/mis-flutter-labs">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&hide_border=true&theme=github_dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&hide_border=true&theme=github_dark"
+    height="165"
+  />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## Languages
+
+- 🇲🇰 **Macedonian** — Native
+- 🇬🇧 **English** — Advanced
+
+---
+
+## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/sarafimovnikola"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nikola.sarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@sarafimovproduction"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://nikolasarafimov.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nikola.sarafimov/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sarafimovproduction">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sarafimovnikola">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Contact
-📧 **sarafimov.nikola12345@gmail.com**
-📧 **nikola.sarafimov@students.finki.ukim.mk**
+## Contact
+
+📧 **Personal:** sarafimov.nikola12345@gmail.com  
+🎓 **University:** nikola.sarafimov@students.finki.ukim.mk
 
 ---
 
-<p align="center">⚡ Building projects. Learning new technologies. Improving every day. ⚡</p>
+<details>
+<summary><strong>🇲🇰 Македонска верзија</strong></summary>
+
+<br>
+
+## За мене
+
+Јас сум студент на **Факултетот за информатички науки и компјутерско инженерство – ФИНКИ**, со фокус на софтверски развој и примена на информациски технологии.
+
+Имам интерес за развој на практични софтверски решенија и работа со различни технологии — од frontend и backend развој до бази на податоци, API интеграции, мобилни апликации и deployment.
+
+Покрај програмирањето, активно се интересирам и за **видео продукција и дигитални медиуми**, вклучувајќи снимање, видео монтажа, фотографија и визуелен дизајн.
+
+- 💻 Full-Stack и Software Development
+- 📱 Web и Mobile Development
+- 🧠 Software Engineering и решавање проблеми
+- 🎬 Видео продукција и монтажа
+- 🌍 Македонија
+
+### Јазици
+
+- 🇲🇰 **Македонски** — мајчин јазик
+- 🇬🇧 **Англиски** — напредно ниво
+
+### Контакт
+
+📧 **Личен:** sarafimov.nikola12345@gmail.com  
+🎓 **ФИНКИ:** nikola.sarafimov@students.finki.ukim.mk
+
+</details>
 
 ---
-
-<br><br>
-
-
-<h1 align="center">👋 <strong>Никола Сарафимов</strong></h1>
-<h3 align="center">Студент на ФИНКИ – Насока Примена на информациски технологии</h3>
 
 <p align="center">
-  💻 Full-Stack Development / Software Developer • 🎥 Видео монтажа и креативни медиуми • 🌐 Tech Learner  
+  <i>Building useful software, learning continuously, and turning ideas into projects.</i>
 </p>
-
----
-
-## 🚀 За Мене
-
-Јас сум студент на насока **Примена на информациски технологии** на ФИНКИ (Факултет за информатички науки и компјутерско инженерство), со голема страст кон создавање модерни апликации, истражување на full-stack развој и постојано подобрување на моите технички и логички вештини.
-
-Покрај програмирањето, имам и силен интерес за **видео продукција**, снимање, монтажа и креативна работа со алатки како **Adobe Premiere Pro, Photoshop** и други мобилни едитори.
-
-Секогаш учам. Секогаш создавам.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Програмирање
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,java,python,dart" height="40" />
-</p>
-
----
-
-### 🔹 Frontend Развој
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,jquery,html" height="40" />
-</p>
-
----
-
-### 🔹 Backend Развој
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django" height="40" />
-</p>
-
----
-
-### 🔹 Бази на податоци & Алатки
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,figma" height="40" />
-</p>
-
----
-
-## 🌍 Јазици
-- **Македонски** (мајчин)  
-- **Англиски** (напредно)
-
----
-
-## 📌 Персонална Веб-Страница  
-👉 **https://nikolasarafimov.github.io**
-
----
-
-## 📈 GitHub Статистики
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolasarafimov&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasarafimov&layout=compact&theme=tokyonight" height="160px" />
-</p>
-
----
-
-## 🔗 Социјални Мрежи
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/sarafimovnikola"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nikola.sarafimov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@sarafimovproduction"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://nikolasarafimov.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 📫 Контакт  
-📧 **sarafimov.nikola12345@gmail.com**
-📧 **nikola.sarafimov@students.finki.ukim.mk**
