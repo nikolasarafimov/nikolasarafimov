@@ -18,18 +18,14 @@
 
 I'm a student at the **Faculty of Computer Science and Engineering (FCSE / FINKI)** in Skopje, focused on software development and applied information technologies.
 
-I enjoy building complete software solutions — from designing responsive user interfaces and developing backend services to working with databases, REST APIs, containerization, and deployment.
+I enjoy building complete software solutions across the development stack — from responsive user interfaces and backend services to databases, REST APIs, containerization, and deployment.
 
-My main interests include **full-stack development, software engineering, web and mobile applications**, and continuously expanding my knowledge through practical work and new technologies.
+Outside software development, I am also interested in **video production and digital media**, including filming, editing, photography, and visual design.
 
-Outside software development, I am also interested in **video production and digital media**, including filming, video editing, photography, and visual design.
-
-- Full-stack and software development
+- Full-stack web and software development
 - Web and mobile application development
-- REST APIs and database-driven applications
+- REST APIs and database-driven systems
 - Software engineering and problem solving
-- Video production and creative media
-- Based in North Macedonia
 
 ---
 
