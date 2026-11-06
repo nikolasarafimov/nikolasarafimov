@@ -1,20 +1,29 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Nikola Sarafimov — software engineering portfolio" width="100%" />
+<img src="assets/profile-banner.svg" width="100%" alt="Nikola Sarafimov — Software Engineering Portfolio" />
 
 <br />
 
-**Software Engineering Student · Full-Stack Developer · Creative Media Enthusiast**
+**Software Engineering Student · Full-Stack Development · Digital Media**
 
-Building thoughtful digital products — from the user interface to the infrastructure behind it.
+Building software with attention to architecture, usability, and the details that make products work.
 
 <p>
-  <a href="https://nikolasarafimov.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0D2538?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:sarafimov.nikola12345@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-176B78?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://nikolasarafimov.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-0D2538?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nikola-sarafimov-418753357/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sarafimov.nikola12345@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-176B78?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email" /></a>
 </p>
 
-<sub><a href="#about-me">About</a> · <a href="#featured-projects">Featured projects</a> · <a href="#engineering-focus">Engineering focus</a> · <a href="#technology-stack">Tech stack</a> · <a href="#creative-work">Creative work</a> · <a href="#connect">Connect</a> · <a href="#македонски">Македонски</a></sub>
+<sub>
+<a href="#about-me">About</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#engineering-focus">Engineering</a> ·
+<a href="#technology-stack">Tech stack</a> ·
+<a href="#github-activity">GitHub activity</a> ·
+<a href="#creative-work">Creative work</a> ·
+<a href="#connect">Contact</a> ·
+<a href="#македонски">Македонски</a>
+</sub>
 
 </div>
 
@@ -24,15 +33,13 @@ Building thoughtful digital products — from the user interface to the infrastr
 
 I'm **Nikola Sarafimov**, a software engineering student at the **Faculty of Computer Science and Engineering (FINKI)**, Ss. Cyril and Methodius University in Skopje, North Macedonia.
 
-I build applications that connect a polished user experience with reliable backend systems. My interests span **full-stack development, software architecture, APIs, databases, cloud deployment, and practical AI integrations**. I particularly enjoy taking a project from an initial idea through implementation, testing, and deployment.
+I develop **full-stack web applications and backend systems**, with an interest in software architecture, databases, REST APIs, distributed systems, and practical AI integrations. I enjoy working across the complete development lifecycle — from interface design and implementation to testing, deployment, and documentation.
 
-Beyond code, I work with **video production, editing, photography, and digital design** — a creative perspective that informs how I approach software interfaces and product presentation.
-
-> **What you'll find here:** selected end-to-end applications, engineering and architecture experiments, academic projects, and hands-on work across multiple technologies.
+My background in **video production, photography, and visual design** also shapes how I approach user experience and the presentation of digital products.
 
 ## Featured Projects
 
-A curated selection of repositories that demonstrate different aspects of my software engineering work. Each project links to its source code and documentation; selected projects also provide a hosted demo.
+Selected projects showcasing full-stack development, data-driven applications, and product-oriented engineering. The screenshots link to their repositories; live demos are linked where available.
 
 <table>
   <tr>
@@ -41,14 +48,14 @@ A curated selection of repositories that demonstrate different aspects of my sof
       <h3><a href="https://github.com/nikolasarafimov/mk-dictionary-app">Macedonian Dictionary</a></h3>
       <p>A searchable digital Macedonian dictionary with <strong>1,323,718 word forms</strong>, morphological information, and a production server-side database API.</p>
       <p><code>React</code> <code>Vite</code> <code>Turso / SQLite</code> <code>Vercel</code></p>
-      <p><a href="https://mk-dictionary-app.vercel.app/home"><strong>Live app</strong></a> · <a href="https://github.com/nikolasarafimov/mk-dictionary-app"><strong>Source code</strong></a></p>
+      <p><a href="https://mk-dictionary-app.vercel.app/home"><strong>Live demo</strong></a> · <a href="https://github.com/nikolasarafimov/mk-dictionary-app"><strong>Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nikolasarafimov/shelfradar"><img src="https://raw.githubusercontent.com/nikolasarafimov/shelfradar/main/docs/screenshots/home.png" width="100%" alt="ShelfRadar product discovery application homepage" /></a>
       <h3><a href="https://github.com/nikolasarafimov/shelfradar">ShelfRadar</a></h3>
       <p>A product discovery and inventory platform with nearby store search, price comparisons, stock information, interactive maps, and role-based dashboards.</p>
       <p><code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>PostGIS</code></p>
-      <p><a href="https://shelfradar-yrw2.onrender.com"><strong>Live app</strong></a> · <a href="https://github.com/nikolasarafimov/shelfradar"><strong>Source code</strong></a></p>
+      <p><a href="https://shelfradar-yrw2.onrender.com"><strong>Live demo</strong></a> · <a href="https://github.com/nikolasarafimov/shelfradar"><strong>Repository</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -57,14 +64,14 @@ A curated selection of repositories that demonstrate different aspects of my sof
       <h3><a href="https://github.com/nikolasarafimov/agrisense-ai">AgriSense AI</a></h3>
       <p>A team-developed agricultural management prototype combining weather data, crop and parcel management, and machine-learning-assisted irrigation recommendations.</p>
       <p><code>React</code> <code>Spring Boot</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-      <p><a href="https://agrisense-ai-six.vercel.app"><strong>Live app</strong></a> · <a href="https://github.com/nikolasarafimov/agrisense-ai"><strong>Source code</strong></a></p>
+      <p><a href="https://agrisense-ai-six.vercel.app"><strong>Live demo</strong></a> · <a href="https://github.com/nikolasarafimov/agrisense-ai"><strong>Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nikolasarafimov/pet-adoption-platform"><img src="https://raw.githubusercontent.com/nikolasarafimov/pet-adoption-platform/main/docs/screenshots/01-home.png" width="100%" alt="Pet Adoption Platform application homepage" /></a>
       <h3><a href="https://github.com/nikolasarafimov/pet-adoption-platform">Pet Adoption Platform</a></h3>
       <p>An end-to-end adoption management application for adopters, animal shelters, and administrators, built with layered architecture and role-based workflows.</p>
       <p><code>C#</code> <code>ASP.NET Core MVC</code> <code>EF Core</code> <code>Docker</code></p>
-      <p><a href="https://pet-adoption-platform-nuvx.onrender.com/"><strong>Live app</strong></a> · <a href="https://github.com/nikolasarafimov/pet-adoption-platform"><strong>Source code</strong></a></p>
+      <p><a href="https://pet-adoption-platform-nuvx.onrender.com/"><strong>Live demo</strong></a> · <a href="https://github.com/nikolasarafimov/pet-adoption-platform"><strong>Repository</strong></a></p>
     </td>
   </tr>
 </table>
@@ -91,59 +98,79 @@ You can also [browse all public repositories](https://github.com/nikolasarafimov
 
 </details>
 
+
+*Project authorship and collaboration details are documented in the individual repositories.*
+
 ---
 
 ## Engineering Focus
 
-| Area | What I work with |
+| Area | Work and interests |
 | :--- | :--- |
-| **Full-stack applications** | Responsive interfaces, backend business logic, end-to-end workflows, and integration between services. |
-| **Backend & API design** | REST APIs, MVC architectures, authentication, authorization, validation, and database-backed systems. |
-| **Architecture & distributed systems** | Microservices, message-driven communication, caching, and deployment-oriented design. |
-| **Data & applied AI** | Relational data, search, OCR workflows, machine learning integration, and geospatial queries. |
-| **Delivery & quality** | Automated tests, GitHub Actions, Docker, environment configuration, and reproducible development setups. |
+| **Full-stack development** | Accessible, responsive interfaces connected to reliable application and data layers. |
+| **Backend engineering** | REST APIs, validation, authentication, authorization, domain logic, and database design. |
+| **Architecture & systems** | Layered architectures, microservices, messaging, caching, and concurrent workflows. |
+| **Data & applied AI** | Search, geospatial data, OCR pipelines, and machine-learning-assisted features. |
+| **Quality & delivery** | Automated testing, continuous integration, containerization, and reproducible deployments. |
 
 ## Technology Stack
 
-*Technologies used across coursework and portfolio projects; experience varies by technology.*
+<sub>Technologies used in academic and portfolio work; experience varies across the stack.</sub>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C#, Java, Python, JavaScript, TypeScript, C++, Dart |
-| **Frontend & mobile** | HTML, CSS, React, Vite, Bootstrap, Tailwind CSS, Flutter, Thymeleaf |
-| **Backend** | ASP.NET / ASP.NET Core, Spring Boot / Spring Cloud, FastAPI, REST APIs |
-| **Databases & data** | PostgreSQL, PostGIS, MySQL, SQLite, Turso / libSQL, SQL Server, H2 |
-| **DevOps & tooling** | Git, GitHub, Docker, Docker Compose, GitHub Actions, Kubernetes, Maven, Gradle |
-| **Architecture & integrations** | Entity Framework, Spring Data JPA, JWT, Keycloak, Kafka, API gateways |
+| **Programming** | Java · C# · Python · JavaScript · TypeScript · C++ · Dart |
+| **Frontend & mobile** | React · HTML/CSS · Vite · Tailwind CSS · Bootstrap · Flutter · Thymeleaf |
+| **Backend** | Spring Boot / Spring Cloud · ASP.NET MVC / ASP.NET Core · FastAPI · REST |
+| **Data** | PostgreSQL · PostGIS · SQL Server · SQLite / Turso · MySQL · H2 |
+| **Infrastructure & tooling** | Git · GitHub Actions · Docker / Compose · Kubernetes · Maven · Gradle |
+| **Platforms & integrations** | Entity Framework · Spring Data JPA · Keycloak · Kafka · JWT |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,cpp,dart,react,spring,dotnet,flutter,postgres,docker,git,github&perline=8" alt="Core development technologies" />
+
+<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,cpp,dart,react,spring,dotnet,flutter,postgres,docker,git,github&amp;perline=8" alt="Technology icons: Java, C#, Python, JavaScript, TypeScript, C++, Dart, React, Spring, .NET, Flutter, PostgreSQL, Docker, Git, GitHub" />
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/nikolasarafimov?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikolasarafimov&amp;theme=github_dark" width="49%" alt="Nikola Sarafimov — GitHub activity statistics" /></a>
+<a href="https://github.com/nikolasarafimov?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikolasarafimov&amp;theme=github_dark" width="49%" alt="Language distribution across public GitHub repositories" /></a>
+
+<sub>Automatically generated from GitHub data. Language distribution reflects repositories, not language proficiency; third-party cards may occasionally be unavailable.</sub>
+
 </div>
 
 ---
 
 ## Creative Work
 
-Software development is my main technical focus, but I also work with **video production and digital media**. My creative interests include filming, video editing, photography, and visual design, with experience using **Adobe Premiere Pro** and **Adobe Photoshop**.
+Alongside software engineering, I work with **filming, video editing, photography, and visual design**. I use tools including **Adobe Premiere Pro** and **Adobe Photoshop**, bringing a visual storytelling perspective to my digital projects.
 
-<a href="https://www.youtube.com/@sarafimovproduction"><img src="https://img.shields.io/badge/Sarafimov%20Production-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Sarafimov Production YouTube channel" /></a>
+<a href="https://www.youtube.com/@sarafimovproduction"><img src="https://img.shields.io/badge/Sarafimov%20Production-YouTube-FF0033?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Sarafimov Production on YouTube" /></a>
 
 ## Languages
 
 - **Macedonian** — Native
-- **English** — Advanced
+- **English**
 
 ## Connect
 
-I'm interested in software engineering opportunities, collaborations, and projects that turn meaningful ideas into practical applications.
+I'm open to conversations about software projects, opportunities, and collaborations.
 
-**Portfolio:** [nikolasarafimov.github.io](https://nikolasarafimov.github.io)  
-**LinkedIn:** [nikola-sarafimov](https://www.linkedin.com/in/nikola-sarafimov-418753357/)  
-**GitHub:** [@nikolasarafimov](https://github.com/nikolasarafimov)  
-**Email:** [sarafimov.nikola12345@gmail.com](mailto:sarafimov.nikola12345@gmail.com)  
-**University email:** [nikola.sarafimov@students.finki.ukim.mk](mailto:nikola.sarafimov@students.finki.ukim.mk)
+| Professional | Contact |
+| :--- | :--- |
+| **Portfolio** | [nikolasarafimov.github.io](https://nikolasarafimov.github.io) |
+| **LinkedIn** | [Nikola Sarafimov](https://www.linkedin.com/in/nikola-sarafimov-418753357/) |
+| **GitHub** | [@nikolasarafimov](https://github.com/nikolasarafimov) |
+| **Personal email** | [sarafimov.nikola12345@gmail.com](mailto:sarafimov.nikola12345@gmail.com) |
+| **University email** | [nikola.sarafimov@students.finki.ukim.mk](mailto:nikola.sarafimov@students.finki.ukim.mk) |
 
-<sub>Also on <a href="https://www.instagram.com/nikola.sarafimov/">Instagram</a> · <a href="https://www.youtube.com/@sarafimovproduction">YouTube</a> · <a href="https://www.facebook.com/sarafimovnikola">Facebook</a></sub>
+<sub>Elsewhere: <a href="https://www.instagram.com/nikola.sarafimov/">Instagram</a> · <a href="https://www.youtube.com/@sarafimovproduction">YouTube</a> · <a href="https://www.facebook.com/sarafimovnikola">Facebook</a></sub>
 
 ---
 
@@ -155,9 +182,9 @@ I'm interested in software engineering opportunities, collaborations, and projec
 
 ## Никола Сарафимов
 
-**Студент по софтверско инженерство · Full-stack развивач · Љубител на креативни дигитални медиуми**
+**Студент по софтверско инженерство · Развој на full-stack апликации · Дигитални медиуми**
 
-Развивам функционални дигитални производи — од корисничкиот интерфејс до системската архитектура и инфраструктурата што ги поддржува.
+Создавам софтверски решенија што ги поврзуваат корисничкото искуство, backend системите и инфраструктурата.
 
 ### За мене
 
@@ -165,7 +192,7 @@ I'm interested in software engineering opportunities, collaborations, and projec
 
 Мојот фокус е на развој на целосни софтверски решенија што комбинираат квалитетно корисничко искуство, сигурна backend логика, API-интеграции и работа со бази на податоци. Ме интересираат **софтверска архитектура, дистрибуирани системи, cloud deployment и практична примена на вештачка интелигенција**. Особено ми е важно проектите да поминат низ цел циклус — планирање, имплементација, тестирање и поставување во функционална околина.
 
-Покрај програмирањето, се занимавам и со **видео продукција, монтажа, фотографија и визуелен дизајн**.
+Покрај софтверскиот развој, се занимавам со **видео продукција, монтажа, фотографија и визуелен дизајн**.
 
 ### Избрани проекти
 
@@ -213,7 +240,7 @@ I'm interested in software engineering opportunities, collaborations, and projec
 ### Јазици
 
 - **Македонски** — мајчин јазик
-- **Англиски** — напредно ниво
+- **Англиски**
 
 ### Контакт
 
@@ -227,12 +254,13 @@ I'm interested in software engineering opportunities, collaborations, and projec
 
 </details>
 
+
 ---
 
 <div align="center">
 
 **Design with purpose. Build with care. Deliver with confidence.**
 
-<sub>Thanks for visiting — explore the repositories to see the projects in detail.</sub>
+<sub>Explore the repositories to see each project's architecture, implementation, and documentation.</sub>
 
 </div>
